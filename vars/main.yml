@@ -1,0 +1,11 @@
+---
+
+# whether or not to install the cjdcmd tool
+install_cjdcmd: true
+
+# where on the remote machine to build cjdns packages
+package_build_dir: "/usr/local/src"
+
+
+# *** DO NOT EDIT BELOW THIS LINE ***
+ansible_python_interpreter: /usr/bin/python2
